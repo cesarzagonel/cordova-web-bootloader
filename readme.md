@@ -26,7 +26,7 @@ As any cordova project, the entry point is configured at **config.xml** on **con
 # Cordova plugins
 For loading cordova.js and its plugins, your application needs to look for the custom platform user agents, as the example javascript code below:
 ``` javascript
-// index.html**
+// index.html
  
 /**
  * Check for custom user agent for loading cordova.js
