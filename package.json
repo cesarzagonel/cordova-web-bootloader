@@ -11,6 +11,7 @@
     "license": "MIT",
     "dependencies": {
         "cordova-android": "^6.2.3",
+        "cordova-custom-config": "^4.0.2",
         "cordova-ios": "^4.4.0",
         "cordova-plugin-compat": "^1.1.0",
         "cordova-plugin-file": "^4.3.3",
@@ -19,7 +20,8 @@
     "cordova": {
         "plugins": {
             "cordova-plugin-whitelist": {},
-            "cordova-plugin-file": {}
+            "cordova-plugin-file": {},
+            "cordova-custom-config": {}
         },
         "platforms": [
             "android",
