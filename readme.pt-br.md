@@ -1,6 +1,10 @@
 # cordova-web-bootloader
 > Simpes template de bootloader que carrega sua aplicação na web.
 
+# Screenshots
+![Screenshot 01](/screenshots/01.png)
+![Screenshot 02](/screenshots/02.png)
+
 # Dependências
 - Apache Cordova ~7.0.1
 
